@@ -3,15 +3,15 @@
 	"version": "1.4.0",
 	"description": "A template for quickly building login systems on top of Node.js & MongoDb",
 	"author": {
-		"name": "Stephen Braitsch",
-		"email": "stephen@braitsch.io"
+		"name": "Manjeet",
+		"email": "manjeetthakur@outlook.com"
 	},
 	"website":{
 		"url": "node-login.braitsch.io"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/braitsch/node-login.git"
+		"url": "git://github.com/vwish/login-on-node.git"
 	},
 	"private": true,
 	"dependencies": {
